@@ -1,13 +1,13 @@
 {
   "cookies":
   {
-    "swid": "",
-    "espn_s2": ""
+    "swid": "{7A649C8E-6A50-48AF-923C-833AF21856C4}",
+    "espn_s2": "AEAgvebeJUVLZU6Raw0Ln6AGvSJl9Y2ZLXDj6760LS2CCruczJ%2FDfelqXiefEZ4YLSJ3gOGvKMISd3e0%2BTO5Xp2yTWrjHVSnJC%2BeVEFbQdZ818lifVA1MNNtPkMCwghEKKuFDw79HNHBVDQTFZ7sSh383xR8EtUPMBo0wQN9Dn4%2B7j2KibAT7yg0Dc1VoyJAuoM3XG5hI4LZd1j1e%2Ba6Ja0XBO7TTxQIYZya8peEZnnlYbuU2KCWAch3ngUSnO9vSGpTRD%2Bp6K8MhemMXW2VaqyI"
   },
   "league":
   {
-    "league_id": 12345678,
-    "season": 2021
+    "league_id": 491359028,
+    "season": 2025
   },
   "url": {
     "fantasy_league": "http://fantasy.espn.com/apis/v3/games/fba/seasons/{}/segments/0/leagues/{}",
